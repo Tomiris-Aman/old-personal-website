@@ -1,1 +1,2 @@
-# old-personal-website
+# personal-site
+Tomiris' personal site
